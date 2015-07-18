@@ -28,6 +28,7 @@ class FromSeleniumForPython2(unittest.TestCase):
         driver.find_element_by_xpath("(//img[@alt='+'])[8]").click()
         driver.find_element_by_xpath("(//img[@alt='+'])[9]").click()
         driver.find_element_by_xpath("(//img[@alt='+'])[10]").click()
+        driver.implicitly_wait(20)
         elem = driver.find_element_by_xpath("//*")
         front_page = elem.get_attribute("outerHTML")
         f = open('front_page.html', 'w')
