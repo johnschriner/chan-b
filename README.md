@@ -8,12 +8,17 @@ The html output is a balance of readability (for limited context) and ease of us
 
 The shell script makes it easy to add as a cronjob and have timed scrapes on a headless machine.  This is ideal for a raspberry pi or something similar.
 
--------
+---
+
 You'll have to install Selenium's Webdriver library:  http://www.seleniumhq.org/download/
--------
+
+---
+
 Q:  Why not just use the API?  --->  https://github.com/4chan/4chan-API
+
 A:  I wanted all text from the front page, not just the OP and recent activity in the thread.
--------
+
+---
 
 To do:
 
