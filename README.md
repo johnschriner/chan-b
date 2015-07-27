@@ -1,6 +1,4 @@
 # chan-b
-â–²
-â–²â–²
 expands threads, scrapes, edits html for corpus linguistics usage
 
 The purpose of this project is to scrape a forum for use in corpus linguistics research.
