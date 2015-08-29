@@ -1,6 +1,8 @@
 # chan-b
 expands threads, scrapes, edits html for corpus linguistics usage
 
+-Added a corpus of all text from the front page in 2015-07 
+
 The purpose of this project is to scrape a forum for use in corpus linguistics research.
 By looking at use of language (on an image board!) we can see trends (summer trends), topical discussion, repetitive themes, etc.
 
