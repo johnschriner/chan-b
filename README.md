@@ -3,7 +3,7 @@ expands threads, scrapes, edits html for corpus linguistics usage
 
 -Added a corpus of all text from the front page in 2015-07 
 
--_Edit nearly four years later_:  Surprisingly the scripts still mostly work with Firefox Quantum and Firefox-ESR.  You have to [download](https://github.com/mozilla/geckodriver/releases) and add it to your /usr/bin.  More info [here](https://pypi.org/project/selenium/).
+-_Edit nearly four years later_:  Surprisingly the scripts still mostly work with Firefox Quantum and Firefox-ESR.  You have to [download](https://github.com/mozilla/geckodriver/releases) Gecko Driver and add it to your /usr/bin.  More info [here](https://pypi.org/project/selenium/).
 
 -In the process of a new month-long corpus for a/b/pol.
 
